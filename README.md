@@ -5,4 +5,5 @@ Binaries of Java bindings to the GNOME platform (including gtk, glib and glade).
 - [I](https://github.com/IdelsTak/) then added the [source](/sources/java-gnome-4.1.3) files
 
 # Usage
-This repo is used for Arch Linux [AUR package](https://aur.archlinux.org/packages/java-gnome-bin/)
+- This repo is used for Arch Linux [AUR package](https://aur.archlinux.org/packages/java-gnome-bin/)
+- Find examples [here](https://wiki.archlinux.org/title/Desktop_notifications#Java)
